@@ -1,6 +1,6 @@
 const data = {
   fullName: 'hau',
-  age: 18,
+  age: 100,
 };
 
 console.log(data);
